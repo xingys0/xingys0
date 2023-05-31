@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently a graduate student at Northeastern University<br>- 🌱 I’m currently learning Computer Engineering<br>- 👯 I’m looking to collaborate on Hackathon<br>- 🤔 I’m looking for help with Interview Mock<br>- 📫 How to reach me: xing.yus789@gmail.com
+🔭 I’m currently a graduate student at Northeastern University<br>- 🌱 I’m currently learning Computer Engineering<br>- 👯 I’m looking to collaborate on Hackathon<br>- 🤔 I’m looking for help with Interview Mock<br>- 📫 How to reach me: xing.yus789@gmail.com<br>-💫 My Website:https://xingys0.github.io/resume/
 
 
 # 💻 Tech Stack:
